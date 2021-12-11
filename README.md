@@ -12,7 +12,9 @@ backend oraz frontend. Nginx ma wystawiony na świat zewnętrzy port 6666.
 zalogowanie się do niego i założenie testowej bazy.
 
 Katalog zawierający projekt zawiera dwa główne foldery:
+
 -str- folder zawierający plik index.php, czyli stronę, która będzie wyświetlana przez serwer po połączeniu z bazą danych
+
 -uslugi- folder zawierający pliki dockerfile do tworzenia danych usług
 
 Dodatkowo w celu prawidłowego działania strony, został utworzony plik konfiguracyjny str.conf.
