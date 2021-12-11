@@ -34,6 +34,6 @@ W tym celu i ze względu na posiadaną wersję Docker'a użyłam polecenia: `doc
  
  ![5](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201140.png)
  
--wygenerowanie reprezentacji graficznej
+-wygenerowanie reprezentacji graficznej poleceniem: `docker container run --rm -it --name mgraph -v $(pwd):/input pmsipilot/docker-compose-viz render -m image docker-compose.yml`
 ![6](https://github.com/anik0o/composer/blob/371dcbb761aa90e163a7c9881e541d585afe1eeb/docker-compose.png)
 
