@@ -11,10 +11,9 @@ backend oraz frontend. Nginx ma wystawiony na świat zewnętrzy port 6666.
 - serwer phpMyAdmin ma być dostępny na porcie 6001 i powinno być możliwe
 zalogowanie się do niego i założenie testowej bazy.
 
-Katalog zawierający projekt zawiera dwa główne foldery:
+Katalog zawierający projekt zawiera plik docker-compose oraz dwa foldery:
 
--str- folder zawierający plik index.php, czyli stronę, która będzie wyświetlana przez serwer po połączeniu z bazą danych
-
+-str- folder zawierający plik index.php, czyli stronę, która będzie wyświetlana przez serwer po połączeniu z bazą danych<br>
 -uslugi- folder zawierający pliki dockerfile do tworzenia danych usług
 
 Dodatkowo w celu prawidłowego działania strony, został utworzony plik konfiguracyjny str.conf.
@@ -28,7 +27,8 @@ W tym celu i ze względu na posiadaną wersję Docker'a użyłam polecenia: `doc
  
  -sprawdzenie działania phpMyAdmin poprzez wejście w localhosta na porcie 6001:
  ![2](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201009.png)
-  Dla przeprowadzenia testu działania bazy danych, utworzyłam nową bazę:
+ 
+-przeprowadzenie testu działania bazy danych:
  ![3](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201046.png)
  ![4](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201100.png)
 
