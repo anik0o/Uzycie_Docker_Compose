@@ -37,10 +37,7 @@ W tym celu i ze względu na posiadaną wersję Docker'a użyłam polecenia: `doc
  
  Następnie wykonałam:
  
- -sprawdzenie działania phpMyAdmin poprzez wejście w localhosta na porcie 6001:
- ![2](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201009.png)
- 
--przeprowadzenie testu działania bazy danych:
+ -sprawdzenie działania phpMyAdmin poprzez wejście w localhosta na porcie 6001 i przeprowadzenie testu działania bazy danych:
  ![3](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201046.png)
  ![4](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201100.png)
 
