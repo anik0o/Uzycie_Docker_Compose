@@ -41,7 +41,7 @@ W tym celu i ze względu na posiadaną wersję Docker'a użyłam polecenia: `doc
  ![3](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201046.png)
  ![4](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201100.png)
 
- -sprawdzenie localhosta na porcie 6666.
+ -sprawdzenie działania strony na porcie 6666.
  
  ![5](https://github.com/anik0o/images/blob/b0ee488a617f62faa498db428f0d931fc410aabe/Zrzut%20ekranu%202021-12-11%20201140.png)
  
